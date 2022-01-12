@@ -18,5 +18,5 @@ export default React.memo(() => {
         Generator version {process.env.COMMIT_DATE}
       </a>
     </nav>
-  ))
+  ));
 };
